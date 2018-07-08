@@ -1,0 +1,6 @@
+{
+  "bundledWebRuntime": true,
+  "webDir": "www",
+  "appId": "com.amjad.captest",
+  "appName": "Cap-test"
+}
